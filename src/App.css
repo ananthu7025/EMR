@@ -1,0 +1,15 @@
+.calendar-container {
+  background-color: white;
+  padding: 20px; /* Optional: Add some padding */
+  border-radius: 8px; /* Optional: Add some border-radius for better look */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add some shadow for better look */
+}
+
+.rbc-event {
+  background-color: #396cf0;
+  border: none;
+}
+
+.rbc-event-label, .rbc-event-content {
+  color: #ffffff;
+}
